@@ -3,17 +3,37 @@ I am a researcher with broad interets in human-computer interaction and artifici
 
 ## Research and Projects Summary
 ### Expectation vs Reality in Users’ Willingness to Delegate to Digital Assistants
-![Willingness to Delegate](/assets/img/will.png|width=100)
 
-<img src="https://github.com/Sea94/sea94.github.io/blob/main/assets/img/will.png" height="150">
+<p align="center">
+  <img src="https://github.com/Sea94/sea94.github.io/blob/main/assets/img/will.png" height="300">
+</p>
 
-Keywords: 
+Keywords: SEM, survey, digital assistant, willingness to delegate, trust, technology adoption, expectations
 
-Publication:
+Publication: [CHI'2023](https://dl.acm.org/doi/10.1145/3544549.3585763)
 
-Talk:
+Talk: https://youtu.be/Lgk2bBXRnsQ
+
+Short description
 
 
+### Approximating Human Evaluation of Social Chatbots with Prompting
+
+Keywords: ...
+
+Preprint: [arXiv'2023](https://arxiv.org/abs/2304.05253)
+
+Short description
 
 
-### P2
+### iEval: Interactive Evaluation Framework for Open-Domain Empathetic Chatbots
+
+<p align="center">
+  <img src="https://github.com/Sea94/sea94.github.io/blob/main/assets/img/ieval.png" height="300">
+</p>
+
+Keywords: ...
+
+Publication: [SIGDIAL'2022](https://aclanthology.org/2022.sigdial-1.41/)
+
+Talk: https://youtu.be/WHxqN4MgvAA
