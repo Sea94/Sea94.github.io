@@ -18,7 +18,7 @@ Short description
 
 ## Approximating Human Evaluation of Social Chatbots with Prompting
 <p align="center">
-  <img src="./assets/img/prompt.png" height="300">
+  <img src="./assets/img/prompt.png" height="200">
 </p>
 
 Keywords: ...
@@ -49,3 +49,14 @@ Keywords: ...
 Publication: [ACL'2022](https://aclanthology.org/2022.acl-long.211/)
 
 Talk: https://underline.io/lecture/49668-a-taxonomy-of-empathetic-questions-in-social-dialogs
+
+## PEACE: A Model of Key Social and Emotional Qualities of Conversational Chatbots
+<p align="center">
+  <img src="./assets/img/peace.png" height="300">
+</p>
+
+Keywords: ...
+
+Publication: [IUI'2021](https://dl.acm.org/doi/10.1145/3397481.3450643) and [TiiS'2022](https://dl.acm.org/doi/full/10.1145/3531064)
+
+Talk: https://youtu.be/DAk99Id9Vt0
