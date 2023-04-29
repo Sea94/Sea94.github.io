@@ -3,6 +3,9 @@ I am a researcher with broad interets in human-computer interaction and artifici
 
 ## Research and Projects Summary
 ### Expectation vs Reality in Users’ Willingness to Delegate to Digital Assistants
+![Willingness to Delegate](/assets/img/will.png|width=100)
+
+<img src="https://github.com/Sea94/sea94.github.io/blob/main/assets/img/will.png" height="150">
 
 Keywords: 
 
