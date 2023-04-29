@@ -5,7 +5,7 @@ I am a researcher with broad interets in human-computer interaction and artifici
 ### Expectation vs Reality in Users’ Willingness to Delegate to Digital Assistants
 
 <p align="center">
-  <img src="https://github.com/Sea94/sea94.github.io/blob/main/assets/img/will.png" height="300">
+  <img src="./assets/img/will.png" height="300">
 </p>
 
 Keywords: SEM, survey, digital assistant, willingness to delegate, trust, technology adoption, expectations
@@ -29,7 +29,7 @@ Short description
 ### iEval: Interactive Evaluation Framework for Open-Domain Empathetic Chatbots
 
 <p align="center">
-  <img src="https://github.com/Sea94/sea94.github.io/blob/main/assets/img/ieval.png" height="300">
+  <img src="./assets/img/ieval.png" height="300">
 </p>
 
 Keywords: ...
