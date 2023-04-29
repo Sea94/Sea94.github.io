@@ -3,7 +3,6 @@ I am a researcher with broad interets in human-computer interaction and artifici
 
 # Research and Projects Summary
 ## Expectation vs Reality in Users’ Willingness to Delegate to Digital Assistants
-
 <p align="center">
   <img src="./assets/img/will.png" height="300">
 </p>
@@ -18,6 +17,9 @@ Short description
 
 
 ## Approximating Human Evaluation of Social Chatbots with Prompting
+<p align="center">
+  <img src="./assets/img/prompt.png" height="300">
+</p>
 
 Keywords: ...
 
@@ -27,7 +29,6 @@ Short description
 
 
 ## iEval: Interactive Evaluation Framework for Open-Domain Empathetic Chatbots
-
 <p align="center">
   <img src="./assets/img/ieval.png" height="300">
 </p>
@@ -37,3 +38,14 @@ Keywords: ...
 Publication: [SIGDIAL'2022](https://aclanthology.org/2022.sigdial-1.41/)
 
 Talk: https://youtu.be/WHxqN4MgvAA
+
+## A Taxonomy of Empathetic Questions in Social Dialogs
+<p align="center">
+  <img src="./assets/img/eqt.png" height="300">
+</p>
+
+Keywords: ...
+
+Publication: [ACL'2022](https://aclanthology.org/2022.acl-long.211/)
+
+Talk: https://underline.io/lecture/49668-a-taxonomy-of-empathetic-questions-in-social-dialogs
