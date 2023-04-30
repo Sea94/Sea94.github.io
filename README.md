@@ -15,7 +15,7 @@ Publication: [CHI'2023](https://dl.acm.org/doi/10.1145/3544549.3585763)
 
 Talk: [https://youtu.be/Lgk2bBXRnsQ](https://youtu.be/Lgk2bBXRnsQ)
 
-Short description...
+We investigated drivers of willingness to use Digital Assistants (DAs) to complete various tasks. Drawing on related research on technology adoption, decision delegation, and automation, we conceptualized a model comprising key determinants of willingness to delegate, focusing on infuenceable factors for practitioners. This model includes users’ perceptions of different tasks, of DAs, and of their value (specifcally trust, ease of use, and usefulness). Our psychometric evaluation procedure confrmed the validity and reliability of the constructs in our model and verifed that the paths between them represented meaningful relationships. We interpreted these findings in light of related work and derive implications for practitioners.
 
 
 ## Approximating Human Evaluation of Social Chatbots with Prompting
@@ -23,11 +23,11 @@ Short description...
   <img src="./assets/img/prompt.png" height="150">
 </p>
 
-Keywords: prompting, GPT, online interactive evaluation, chatbots, calibration
+Keywords: prompting, LLM, GPT, online interactive evaluation, chatbots, calibration
 
 Preprint: [arXiv'2023](https://arxiv.org/abs/2304.05253)
 
-Short description...
+The project addresses the need for scalable and robust evaluation metrics for conversational chatbots, as existing automatic evaluation metrics often focus on objective quality measures and disregard subjective perceptions of social dimensions. We proposed a framework that uses large language models (LLMs) from the GPT-family to collect synthetic chat logs of evaluated bots and conducts dialog system evaluation with prompting. The framework achieves full automation of the evaluation pipeline and shows impressive correlation with human judgement. The best-performing prompts include few-shot demonstrations and instructions, demonstrating the ability to generalize to other dialog corpora.
 
 
 ## iEval: Interactive Evaluation Framework for Open-Domain Empathetic Chatbots
@@ -41,14 +41,15 @@ Publication: [SIGDIAL'2022](https://aclanthology.org/2022.sigdial-1.41/)
 
 Talk: [https://youtu.be/WHxqN4MgvAA](https://youtu.be/WHxqN4MgvAA)
 
-Short description...
+
+In this project, we proposed an interactive human evaluation framework called iEval, which measures the performance of open-domain empathetic chatbots. iEval framework provides high consitency in subjective perceptions of chatbots' responses as both the emotional interaction and evaluation of a chatbot are accomplished by the same human actor. The framework is used to benchmark several state-of-the-art empathetic chatbots and discover intricate details in their performance in different emotional contexts, leading to key implications for further improvement of such chatbots. 
 
 ## A Taxonomy of Empathetic Questions in Social Dialogs
 <p align="center">
   <img src="./assets/img/eqt.png" height="300">
 </p>
 
-Keywords: ...
+Keywords: taxonomy, 
 
 Publication: [ACL'2022](https://aclanthology.org/2022.acl-long.211/)
 
