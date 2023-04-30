@@ -11,7 +11,7 @@ My research focuses on understanding what qualities make chatbots compelling to 
 
 Keywords: SEM, survey, digital assistant, willingness to delegate, trust, technology adoption, expectations
 
-Publication: [CHI'2023](https://dl.acm.org/doi/10.1145/3544549.3585763)
+Publication: [CHI'2023](https://dl.acm.org/doi/10.1145/3544549.3585763), [QuantUXCon'2023](https://www.quantuxcon.org/home) (to appear), [EAM'2023](https://eam2023.ugent.be/) (to appear)
 
 Talk: [https://youtu.be/Lgk2bBXRnsQ](https://youtu.be/Lgk2bBXRnsQ)
 
