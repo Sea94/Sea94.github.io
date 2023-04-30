@@ -15,7 +15,7 @@ Publication: [CHI'2023](https://dl.acm.org/doi/10.1145/3544549.3585763)
 
 Talk: [https://youtu.be/Lgk2bBXRnsQ](https://youtu.be/Lgk2bBXRnsQ)
 
-We investigated drivers of willingness to use Digital Assistants (DAs) to complete various tasks. Drawing on related research on technology adoption, decision delegation, and automation, we conceptualized a model comprising key determinants of willingness to delegate, focusing on infuenceable factors for practitioners. This model includes users’ perceptions of different tasks, of DAs, and of their value (specifcally trust, ease of use, and usefulness). Our psychometric evaluation procedure confrmed the validity and reliability of the constructs in our model and verifed that the paths between them represented meaningful relationships. We interpreted these findings in light of related work and derive implications for practitioners.
+We investigated drivers of willingness to use Digital Assistants (DAs) to complete various tasks. Drawing on related research on technology adoption, decision delegation, and automation, we conceptualized a model comprising key determinants of willingness to delegate, focusing on infuenceable factors for practitioners. This model includes users’ perceptions of different tasks, of DAs, and of their value (specifcally trust, ease of use, and usefulness). Our psychometric evaluation procedure confrmed the validity and reliability of the constructs in our model and verifed that the paths between them represented meaningful relationships. We interpreted these findings in light of related work and derived implications for practitioners.
 
 
 ## Approximating Human Evaluation of Social Chatbots with Prompting
@@ -23,7 +23,7 @@ We investigated drivers of willingness to use Digital Assistants (DAs) to comple
   <img src="./assets/img/prompt.png" height="150">
 </p>
 
-Keywords: prompting, LLM, GPT, online interactive evaluation, chatbots, calibration
+Keywords: prompting, LLM, GPT-3.5, online interactive evaluation, chatbots, calibration
 
 Preprint: [arXiv'2023](https://arxiv.org/abs/2304.05253)
 
@@ -81,7 +81,7 @@ Publication: [IUI'2021](https://dl.acm.org/doi/10.1145/3397481.3450643) and [Tii
 
 Talk: [https://youtu.be/DAk99Id9Vt0](https://youtu.be/DAk99Id9Vt0)
 
-We aimed at devising a holistic model of social and emotional qualities with which users desire their chatbots to comply. We conducted an exploratory user study to understand the desired qualities of chatbots with a special focus on their emotional intelligence. Further, we developed a model of the desired traits, called the PEACE model (Politeness, Entertainment, Attentive Curiosity, and Empathy), and validated it through a large-scale survey and structural equation modeling. The study sheds light on the importance of and interplay between the chatbots’ qualities and the effect of users’ attitudes and concerns on their expectations of the technology, and provides design implications for the development of socially adequate and emotionally aware open-domain chatbots.
+We aimed at devising a holistic model of social and emotional qualities that users expect from their chatbots. We conducted an exploratory user study to understand the desired qualities of chatbots with a special focus on their emotional intelligence. Further, we developed a model of the desired traits, called the PEACE model (Politeness, Entertainment, Attentive Curiosity, and Empathy), and validated it through a large-scale survey and structural equation modeling. The study sheds light on the importance of and interplay between the chatbots’ qualities and the effect of users’ attitudes and concerns on their expectations of the technology, and provides design implications for the development of socially adequate and emotionally aware open-domain chatbots.
 
 
 ## COVER: Make volunteering services easily accessible for risk groups
@@ -101,3 +101,5 @@ We developed this project within the scope of [LauzHack Against COVID-19](https:
 Residence: Lausanne, Switzerland
 
 Email: ekaterina [DOT] svikhnushina [AT] epfl [DOT] ch
+
+[LinkedIn](https://www.linkedin.com/in/ekaterina-svikhnushina-85ab31a3/)
