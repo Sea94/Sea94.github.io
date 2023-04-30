@@ -42,46 +42,46 @@ Publication: [SIGDIAL'2022](https://aclanthology.org/2022.sigdial-1.41/)
 Talk: [https://youtu.be/WHxqN4MgvAA](https://youtu.be/WHxqN4MgvAA)
 
 
-In this project, we proposed an interactive human evaluation framework called iEval, which measures the performance of open-domain empathetic chatbots. iEval framework provides high consitency in subjective perceptions of chatbots' responses as both the emotional interaction and evaluation of a chatbot are accomplished by the same human actor. The framework is used to benchmark several state-of-the-art empathetic chatbots and discover intricate details in their performance in different emotional contexts, leading to key implications for further improvement of such chatbots. 
+In this project, we proposed an interactive human evaluation framework called iEval, which measures the performance of open-domain empathetic chatbots. iEval framework provides high consitency in curated scores of subjective perceptions of chatbots as both the emotional interaction and evaluation of a chatbot are accomplished by the same human actor. The framework is used to benchmark several state-of-the-art empathetic chatbots and discover intricate details in their performance in different emotional contexts, leading to key implications for further improvement of such chatbots. 
 
 ## A Taxonomy of Empathetic Questions in Social Dialogs
 <p align="center">
   <img src="./assets/img/eqt.png" height="300">
 </p>
 
-Keywords: taxonomy, 
+Keywords: taxonomy, crowd-sourced annotation, automatic classification, BERT, visualization
 
 Publication: [ACL'2022](https://aclanthology.org/2022.acl-long.211/)
 
 Talk: [https://underline.io/lecture/49668-a-taxonomy-of-empathetic-questions-in-social-dialogs](https://underline.io/lecture/49668-a-taxonomy-of-empathetic-questions-in-social-dialogs)
 
-Short description...
+We took a step towards improving conversational chatbots' question-asking abilities by developing an empathetic question taxonomy (EQT) that captures the communicative acts and emotion-regulation intents of questions in social dialogs. To operationalize the taxonomy, we used a crowd-sourcing task to annotate a large subset of the EmpatheticDialogues dataset and further developed automatic labeling tools using the annotated data. Information visualization techniques were employed to summarize co-occurrences of question acts and intents and their role in regulating interlocutor's emotions, revealing important question-asking strategies in social dialogs.
 
 ## User Expectations of Conversational Chatbots Based on Online Reviews
 <p align="center">
   <img src="./assets/img/dis.png" height="300">
 </p>
 
-Keywords: ...
+Keywords: mixed-method study, online reviews, content analysis, sentiment analysis, regression, topic analysis, thematic analysis
 
 Publication: [DIS'2021](https://dl.acm.org/doi/abs/10.1145/3461778.3462125)
 
 Talk: [https://youtu.be/GlnW-Fuo5BA](https://youtu.be/GlnW-Fuo5BA) (by my student)
 
-Short description...
+Drawing from reviews of chatbots posted on Google Play, we explored user experience and expectations of these agents in a mixed-method study. Results of statistical analysis revealed which social qualities of chatbots are the most significant for user satisfaction. Further, we employed natural language processing and qualitative methods to identify how users wish their chatbots to evolve in the future. While currently users mostly value the entertaining component of their experience, their expectations call for more human-like behavior of chatbots. The most prominent expectations include chatbots’ abilities to treat and express emotions and be more attentive to the user. Based on these findings, we derived design implications, discussing the directions for developing social skills of open-domain chatbots.
 
 ## PEACE: A Model of Key Social and Emotional Qualities of Conversational Chatbots
 <p align="center">
   <img src="./assets/img/peace.png" height="300">
 </p>
 
-Keywords: ...
+Keywords: semi-structured interviews, survey, emotional intelligence, social intelligence, adoption, SEM
 
 Publication: [IUI'2021](https://dl.acm.org/doi/10.1145/3397481.3450643) and [TiiS'2022](https://dl.acm.org/doi/full/10.1145/3531064)
 
 Talk: [https://youtu.be/DAk99Id9Vt0](https://youtu.be/DAk99Id9Vt0)
 
-Short description...
+We aimed at devising a holistic model of social and emotional qualities with which users desire their chatbots to comply. We conducted an exploratory user study to understand the desired qualities of chatbots with a special focus on their emotional intelligence. Further, we developed a model of the desired traits, called the PEACE model (Politeness, Entertainment, Attentive Curiosity, and Empathy), and validated it through a large-scale survey and structural equation modeling. The study sheds light on the importance of and interplay between the chatbots’ qualities and the effect of users’ attitudes and concerns on their expectations of the technology, and provides design implications for the development of socially adequate and emotionally aware open-domain chatbots.
 
 
 ## COVER: Make volunteering services easily accessible for risk groups
@@ -93,7 +93,7 @@ Keywords: dialogflow, fluid-ui, javascript, python, voximplant, call service
 
 Project page: [https://devpost.com/software/cover-proposal](https://devpost.com/software/cover-proposal)
 
-We developed this project within the scope of [LauzHack Against COVID-19](https://lauzhack-against-covid-19.devpost.com/) hackathon. POV: Elderly and sick people isolated at home need an easy way to connect with volunteers for rapid assistance as online help-seeking is hard while frequent requests to relatives cause social embarrassment. To address the problem and offer protection for the population in need during Covid-19 crisis, we offer COVER ― a service to connect people with COVid volunteERs via simple and centralized phone calls and sms.
+We developed this project within the scope of [LauzHack Against COVID-19](https://lauzhack-against-covid-19.devpost.com/) hackathon. POV: Elderly and sick people isolated at home need an easy way to connect with volunteers for rapid assistance as online help-seeking is hard while frequent requests to relatives cause social embarrassment. To address the problem and offer protection for the population in need during Covid-19 crisis, we proposed COVER ― a service to connect people with COVid volunteERs via simple and centralized phone calls and sms.
 
 
 # Contact
