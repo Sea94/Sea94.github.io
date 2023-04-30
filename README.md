@@ -23,7 +23,7 @@ Short description...
   <img src="./assets/img/prompt.png" height="150">
 </p>
 
-Keywords: ...
+Keywords: prompting, GPT, online interactive evaluation, chatbots, calibration
 
 Preprint: [arXiv'2023](https://arxiv.org/abs/2304.05253)
 
@@ -35,7 +35,7 @@ Short description...
   <img src="./assets/img/ieval.png" height="300">
 </p>
 
-Keywords: ...
+Keywords: interactive human evaluation, empathetic chatbots, ANOVA, interaction effects, discourse analysis 
 
 Publication: [SIGDIAL'2022](https://aclanthology.org/2022.sigdial-1.41/)
 
