@@ -88,11 +88,15 @@ Short description...
   <img src="./assets/img/cover.png" height="300">
 </p>
 
-Keywords: ...
+Keywords: dialogflow, fluid-ui, javascript, python, voximplant, call service
 
 Project page: [https://devpost.com/software/cover-proposal](https://devpost.com/software/cover-proposal)
 
-Short description...
+We developed this project within the scope of [LauzHack Against COVID-19](https://lauzhack-against-covid-19.devpost.com/) hackathon.
+
+POV: Elderly and sick people isolated at home need an easy way to connect with volunteers for rapid assistance as online help-seeking is hard while frequent requests to relatives cause social embarrassment.
+
+To address the problem and offer protection for the population in need during Covid-19 crisis, we offer COVER ― a service to connect people with COVid volunteERs via simple and centralized phone calls and sms.
 
 
 # Contact
