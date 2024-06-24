@@ -1,7 +1,9 @@
 # About me
-I am a researcher with broad interests in human-computer interaction and artificial intelligence. I earned my master’s and bachelor’s degrees in applied mathematics and physics at [MIPT](https://mipt.ru/english/). Currently, I am pursuing a doctorate in computer science at [EPFL](https://www.epfl.ch/en/), where I work with [Pearl Pu](https://www.epfl.ch/labs/gr-pu/members/pearl-pu/), studying social conversational agents, also known as chatbots.
+Since December 2023, I have been the Technical Cooperation Manager at Huawei's Zurich Research Center.
+In this role, I play a crucial part in facilitating R&D initiatives, driving innovation, and fostering strategic collaborations for significant technological advancements. 
+Before this, I earned a PhD in Computer Science from [EPFL](https://www.epfl.ch/en/), where I worked with [Pearl Pu](https://www.epfl.ch/labs/gr-pu/members/pearl-pu/) on social conversational agents, commonly known as chatbots. I hold master’s and bachelor’s degrees in applied mathematics and physics from [MIPT](https://mipt.ru/english/).
 
-My research focuses on understanding what qualities make chatbots compelling to users, and how to evaluate them. To achieve this, I approach my work from a user-centered perspective, with a focus on theoretical conceptualization, experimental design, and evaluation. Thanks to my interdisciplinary background, I have a unique set of skills that allows me to collaborate effectively with professionals from various fields.
+I am passionate about human-computer interaction, user experience, and artificial intelligence. My PhD research focused on understanding what qualities make chatbots compelling to users, and how to evaluate them. To achieve this, I approached my work from a user-centered perspective, focusing on theoretical conceptualization, experimental design, and evaluation. Thanks to my interdisciplinary background, I have a unique set of skills that allows me to collaborate effectively with professionals from various fields.
 
 # Research and Projects Summary
 ## Expectation vs Reality in Users’ Willingness to Delegate to Digital Assistants
